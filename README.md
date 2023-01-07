@@ -1,4 +1,4 @@
-https://media.licdn.com/dms/image/D5616AQEvNh3u33Rl8Q/profile-displaybackgroundimage-shrink_350_1400/0/1665093724186?e=1678320000&v=beta&t=Ruu8m6y-CL9dDgGd0EwzbwJo4ezoltFIlTxIXXXGsUY
+![](https://media.licdn.com/dms/image/D5616AQEvNh3u33Rl8Q/profile-displaybackgroundimage-shrink_350_1400/0/1665093724186?e=1678320000&v=beta&t=Ruu8m6y-CL9dDgGd0EwzbwJo4ezoltFIlTxIXXXGsUY)
 
 # 💫 About Me:
 🔭 I’m currently working on freelancer and fiverr market place<br>👯 I’m looking to collaborate on tech company and work with a good team<br>🤝 I’m looking for help with big project<br>🌱 I’m currently learning redux , next js , typescript<br>💬 Ask me about react , javascript , php<br>⚡ Fun fact sports, code , vacation
